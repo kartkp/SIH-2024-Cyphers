@@ -1,2 +1,2 @@
-# SIH-2024---Cyphers
+# SIH-2024-Cyphers
 This repository contains the code and resources for our project developed for the Smart India Hackathon 2024.
